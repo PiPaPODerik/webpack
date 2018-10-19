@@ -15,7 +15,8 @@ module.exports = [
 				name: "vendor_[hash]",
 				path: path.resolve(__dirname, "dist/manifest.json")
 			})
-		]
+		],
+		//fixing the bug ..........
 	},
 
 	{
